@@ -1,4 +1,4 @@
-<p align="left">👋 Hi, I’m @code-noob-li<br>👀 I’m interested in eat, sleep, code...<br>🌱 I’m currently learning how to use computer!<br> 💞️ I’m looking to collaborate on ...earth...<br> 📫 How to reach me ...in dream...</p>
+<p align="left">👋 Hi, I’m @code-noob-li<br>👀 I’m interested in eat, sleep, code...<br>🌱 I’m currently learning how to use computer!<br> 💞️ I’m looking to collaborate on ...ear[...]
 
 ###
 ## Programming Languages & Tools I Use
@@ -38,18 +38,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-noob-li&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-noob-li&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-noob-li&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&t[...]
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=code-noob-li&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=[...]
   <img src="https://streak-stats.demolab.com?user=code-noob-li&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-noob-li&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-noob-li/code-noob-li/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-noob-li/code-noob-li/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/code-noob-li/code-noob-li/output/pacman-contribution-graph.svg">
-</picture>
+###
+
 
 ###
+
